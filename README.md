@@ -1,2 +1,2 @@
 # Speech-Emotion-Recognition
-Language used is Python and the dataset used it RAVDESS, Crema, Savee
+Language used is Python and the dataset used is RAVDESS, Crema, Savee
